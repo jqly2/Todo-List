@@ -1,0 +1,12 @@
+[0506/214914.099:ERROR:process_info.cc(625)] range at 0xc5ca2ea600000000, size 0x1c6 fully unreadable
+[0506/214914.099:ERROR:process_info.cc(625)] range at 0xc5ca2f0e00000000, size 0x1c6 fully unreadable
+[0506/214914.099:ERROR:process_info.cc(625)] range at 0x0, size 0x1c6 fully unreadable
+[0506/214914.123:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1c6c6160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0506/214914.124:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\System32\COMDLG32.dll
+[0506/214914.125:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1c6c5e70080 of 32768 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0506/214914.125:WARNING:pe_image_annotations_reader.cc(65)] could not read simple annotations from C:\Program Files (x86)\Google\Chrome\Application\57.0.2987.133\chrome_elf.dll
+[0506/214914.125:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1c6c6160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0506/214914.125:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\System32\COMDLG32.dll
+[0506/214914.136:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7a1915f000 of 69632 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0506/214914.136:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0506/214914.140:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
